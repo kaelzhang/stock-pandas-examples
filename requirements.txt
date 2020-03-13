@@ -1,3 +1,4 @@
 stock-pandas
 pandas
 jupyterlab
+mplfinance

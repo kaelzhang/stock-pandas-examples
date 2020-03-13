@@ -1,3 +1,6 @@
+# Jupyter
+.ipynb_*
+
 # Python
 __pycache__
 *.pyc
